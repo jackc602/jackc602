@@ -1,4 +1,8 @@
 """
+This project is an investigation by my group in DS2500 to see if we 
+could predict an MLB team's regular season and playoff success. It was 
+completed in April 2024, in our freshman year of college. 
+
 DS2500
 Spring 2024
 Final Project 
