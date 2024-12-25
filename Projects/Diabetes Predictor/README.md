@@ -13,3 +13,5 @@ As can be seen in the plot above, our model performed worse as income increased.
 as this was the first time I encountered a real problem of bias according to a group in my own work. I think this raises an interesting 
 ethical question as to the deployement of a potentially effective model that may create or extremify existing biases in the real world.
 Moving forward, I want to ensure that I am creating ethical work that promotes equailty. 
+
+View the notebook [here] (https://github.com/jackc602/jackc602/blob/main/Projects/Diabetes%20Predictor/diabetes_project.ipynb).
