@@ -29,3 +29,5 @@ Our KNN classifier was largely ineffective, despite having an accuracy score of 
 
 This was an important early learning experience for me, the first takeaway being that accuracy isn't everything, and can be biased. For a classification task like this, a metric like precision or recall, or F1 combining them both would be an important thing to evaluate alongside accuracy to get the full picture. The second takeaway is that an early consideration of a classification task should be class balance. This could have been addressed using an over/undersampling technique in the early stages of the project. Overall this was a very informative and enjoyable project, I had a great time taking a deeper look into the statistics side of a aport I love. It's fun and instructive to look back and see what I could have done differently to glean better results.
 
+View the code [here](https://github.com/jackc602/jackc602/blob/main/Projects/MLB%20Team%20Success/mlb_success_project.py).
+
