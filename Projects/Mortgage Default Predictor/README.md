@@ -8,4 +8,4 @@ This project is a supervised learning task which aims to accurately predict whet
 
 I chose accuracy as the success metric to monitor because after the oversampling, the data was balanced thus accuracy couldn't be biased by over predicting a majority class. The neural network performed with a mean cross validated accuracy of **0.955** and an accuracy score of **0.956** on the validation portion of the data. The random forest model constructed after performed with a mean cross validated accuracy of **0.956**. Both models performed well across all splits of the data, however due to the early stoping methods used while training the NN, its training took significantly less time than the RF (about 1/2 of the time on my computer). Both models are viable methods for this task, with the NN being slightly less computationally intensive to train. 
 
-View the notebook [here](https://github.com/jackc602/jackc602/blob/main/Projects/Mortgage%20Default%20Predictor/mortgage_analysis.ipynb).
+View the notebook [here](https://github.com/jackc602/jackc602/blob/main/Projects/Mortgage%20Default%20Predictor/.ipynb/mortgage_analysis.ipynb).
