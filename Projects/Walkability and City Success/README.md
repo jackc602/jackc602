@@ -7,7 +7,7 @@ work as a part of my portfolio. It reminds me of how far I have come already, an
 Additionally this is an investigation that still interests me, as we found some interesting correlations 
 between the walkability score of a city/area and its economic and environmental success. 
 
-Included is our presentation, which you can find [here]
+Included is our presentation, which you can find [here](https://github.com/jackc602/jackc602/blob/main/Projects/Walkability%20and%20City%20Success/walkability_presentation.pdf)
 
 Code is [here](https://github.com/jackc602/jackc602/blob/main/Projects/Walkability%20and%20City%20Success/walkability_and_city_success.py)
 
