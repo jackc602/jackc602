@@ -4,7 +4,7 @@ This is a great place to learn about who I am and the work that I have done. Che
 
 ## About Me
 - I am second year undergrad student studying Data Science at Northeastern University
-- Right now I am learning about database design and machine learning. 
+- I'm currently on co-op at General Atlantic, a private equity firm building data driven reporting on the Transactions Finance team.
 - I am from Maine, and I love to see the outdoors and ski.
 - I can be reached at carroll.jac@northeastern.edu, or any of the methods listed below.\
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jack-carroll-43b2442b6/)
