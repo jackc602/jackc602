@@ -21,6 +21,11 @@ I've picked up these skills over the course of my experience and education. Thes
 
 [Modelling MLB Team Success](https://github.com/jackc602/jackc602/tree/main/Projects/MLB%20Team%20Success)
 
+### Application Development
+[HuskyPulse - a student/club social media platform](https://github.com/jackc602/HuskyPulse)
+
+[Reservation System in C++](https://github.com/jackc602/jackc602/tree/main/Projects/Reservation%20System)
+
 ### NLP 
 [Bizparse - NLP Tool for Business Analysis](https://github.com/jackc602/jackc602/tree/main/Projects/Bizparse)
 
@@ -29,8 +34,6 @@ I've picked up these skills over the course of my experience and education. Thes
 
 ### Misc.
 [Stock Monte Carlo Dashboard](https://github.com/TamidNu/monte-carlo-simulation)
-
-[Reservation System in C++](https://github.com/jackc602/jackc602/tree/main/Projects/Reservation%20System)
 
 [Investigating how Walkability Correlates with Employement and Environomental Factors](https://github.com/jackc602/jackc602/tree/main/Projects/Walkability%20and%20City%20Success) 
 
