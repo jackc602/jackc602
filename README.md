@@ -37,6 +37,6 @@ I've picked up these skills over the course of my experience and education. Thes
 
 [Investigating how Walkability Correlates with Employement and Environomental Factors](https://github.com/jackc602/jackc602/tree/main/Projects/Walkability%20and%20City%20Success) 
 
-Bluebike Use and Expansion Analysis - [Website](https://kennedw.github.io/DS4200-Bike-Project/) [Repo](https://github.com/KenneDW/DS4200-Bike-Project)
+Bluebike Use and Expansion Analysis: [Website](https://kennedw.github.io/DS4200-Bike-Project/) - [Repo](https://github.com/KenneDW/DS4200-Bike-Project)
 
 
