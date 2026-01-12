@@ -40,4 +40,10 @@ I've used these technologies over the course of my professional experience, pers
 
 Bluebike Use and Expansion Analysis: [Website](https://kennedw.github.io/DS4200-Bike-Project/) - [Repo](https://github.com/KenneDW/DS4200-Bike-Project)
 
+### In Progress
+
+[EDGAR-Searcher](https://github.com/jackc602/EDGAR-Searcher) - A free RAG app to chat with locally run LLMs about public company filings.
+
+[TradeMaker](https://github.com/jackc602/TradeMaker) - A fantasy football trade recommendation engine.
+
 
