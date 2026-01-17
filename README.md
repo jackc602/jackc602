@@ -5,10 +5,10 @@ Check out this page to learn about me and the work I have done. I'm always happy
 
 ## About Me
 - I am third year undergrad student studying Data Science with a minor in Mathematics at Northeastern University
-- I'm currently on co-op at General Atlantic, a private equity firm where I am helping to build out data driven reporting and process automation on the Fund Operations team. 
+- Last December I finished a 6 month co-op at General Atlantic, a private equity firm where I am helped to build out data driven reporting and process automation on the Fund Operations team. 
 - I am from Maine, I love to be active skiing and running, and I am a huge Red Sox and Patriots fan!
 - I'm passionate about applying the math and programming skills I've learned to build out efficient data driven infrastructure, build predictive models, and create analytics systems.
-- Finance and sports particularly interest me, but more than anything I want to solve challenging problems and drive positive change. 
+- Finance and sports particularly interest me, but more than anything I want to solve challenging problems using data. 
 
 ## Skills
 I've used these technologies over the course of my professional experience, personal projects, and education.
