@@ -23,6 +23,8 @@ I've used these technologies over the course of my professional experience, pers
 [Modelling MLB Team Success](https://github.com/jackc602/jackc602/tree/main/Projects/MLB%20Team%20Success)
 
 ### Application Development
+[EDGAR-Searcher](https://github.com/jackc602/EDGAR-Searcher)
+
 [HuskyPulse - a student/club social media platform](https://github.com/jackc602/HuskyPulse)
 
 [Reservation System in C++](https://github.com/jackc602/jackc602/tree/main/Projects/Reservation%20System)
@@ -41,8 +43,6 @@ I've used these technologies over the course of my professional experience, pers
 Bluebike Use and Expansion Analysis: [Website](https://kennedw.github.io/DS4200-Bike-Project/) - [Repo](https://github.com/KenneDW/DS4200-Bike-Project)
 
 ### In Progress
-
-[EDGAR-Searcher](https://github.com/jackc602/EDGAR-Searcher) - A free RAG app to chat with locally run LLMs about public company filings.
 
 [TradeMaker](https://github.com/jackc602/TradeMaker) - A fantasy football trade recommendation engine.
 
