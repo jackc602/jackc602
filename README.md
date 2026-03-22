@@ -5,6 +5,7 @@ Check out this page to learn about me and the work I have done. I'm always happy
 
 ## About Me
 - I am third year undergrad student studying Data Science with a minor in Mathematics at Northeastern University
+- This summer I'll be joining Amazon under AWS as a data engineer intern in Seattle.
 - Last December I finished a 6 month co-op at General Atlantic, a private equity firm where I am helped to build out data driven reporting and process automation on the Fund Operations team. 
 - I am from Maine, I love to be active skiing and running, and I am a huge Red Sox and Patriots fan!
 - I'm passionate about applying the math and programming skills I've learned to build out efficient data driven infrastructure, build predictive models, and create analytics systems.
