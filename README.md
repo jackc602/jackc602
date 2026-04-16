@@ -21,7 +21,11 @@ Check out this page to learn about me and the work I have done. I'm always happy
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![CONDA](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white) ![uv](https://img.shields.io/badge/uv-%23DE5FE9.svg?style=for-the-badge&logo=uv&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) 
 ## Projects
-### Machine learning
+### Machine learning/AI
+[EDGAR-Searcher](https://github.com/jackc602/EDGAR-Searcher)
+
+[Credit Portfolio Manager](https://github.com/RithikRaghuraman/CS4100-Final-Project)
+
 [Mortgage Default Predictor](https://github.com/jackc602/jackc602/tree/main/Projects/Mortgage%20Default%20Predictor)
 
 [Diabetes Outcome Predictor](https://github.com/jackc602/jackc602/tree/main/Projects/Diabetes%20Predictor)
@@ -29,20 +33,19 @@ Check out this page to learn about me and the work I have done. I'm always happy
 [Modelling MLB Team Success](https://github.com/jackc602/jackc602/tree/main/Projects/MLB%20Team%20Success)
 
 ### Application Development
-[EDGAR-Searcher](https://github.com/jackc602/EDGAR-Searcher)
-
 [HuskyPulse - a student/club social media platform](https://github.com/jackc602/HuskyPulse)
 
 [Reservation System in C++](https://github.com/jackc602/jackc602/tree/main/Projects/Reservation%20System)
 
 ### NLP 
-[Bizparse - NLP Tool for Business Analysis](https://github.com/jackc602/jackc602/tree/main/Projects/Bizparse)
+[Logical Fallacy Classification](https://github.com/jackc602/Fallacy-Detector)
 
-### Evolutionary Computing
-[Scheduling TAs to Classes](https://github.com/jackc602/jackc602/tree/main/Projects/Scheduling%20through%20Evolutionary%20Computation)
+[Bizparse - NLP Tool for Business Analysis](https://github.com/jackc602/jackc602/tree/main/Projects/Bizparse)
 
 ### Misc.
 [Stock Monte Carlo Dashboard](https://github.com/TamidNu/monte-carlo-simulation)
+
+[Optimal Scheduling using Evolutionary Computing](https://github.com/jackc602/jackc602/tree/main/Projects/Scheduling%20through%20Evolutionary%20Computation)
 
 [Investigating how Walkability Correlates with Employement and Environomental Factors](https://github.com/jackc602/jackc602/tree/main/Projects/Walkability%20and%20City%20Success) 
 
