@@ -4,12 +4,12 @@ Check out this page to learn about me and the work I have done. I'm always happy
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jack-carroll-43b2442b6/)
 
 ## About Me
-- I am third year undergrad student studying Data Science with a minor in Mathematics at Northeastern University
-- This summer I'll be joining Amazon under AWS as a data engineer intern in Seattle.
-- Last December I finished a 6 month co-op at General Atlantic, a private equity firm where I am helped to build out data driven reporting and process automation on the Fund Operations team. 
-- I am from Maine, I love to be active skiing and running, and I am a huge Red Sox and Patriots fan!
-- I'm passionate about applying the math and programming skills I've learned to build out efficient data driven infrastructure, build predictive models, and create analytics systems.
-- Finance and sports particularly interest me, but more than anything I want to solve challenging problems using data. 
+- I am fourth year undergrad student studying Data Science with a minor in Mathematics at Northeastern University
+- I spent my last summer at AWS working as a data engineer intern in Seattle. There I owned the end-to-end ingestion, ETL, and publishing of an external data
+source in the data warehouse supporting AWS Marketing's analytics, modeling, and measurement.
+- I previously spent 6 months interning at General Atlantic, a private equity firm where I helped to build out data driven reporting and process automation on the Fund Operations team. 
+- I am from Maine, I love to ski and run, and I am a huge Red Sox and Patriots fan!
+- Finance and sports particularly interest me, but more than anything I want to do work solving problems with data. 
 
 ## Skills
 
